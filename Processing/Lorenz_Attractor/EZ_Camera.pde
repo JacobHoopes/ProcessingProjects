@@ -1,0 +1,4 @@
+
+class EZ_Camera {
+  
+}
